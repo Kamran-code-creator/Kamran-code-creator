@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi There,
 
-<!--
-**Kamran-code-creator/Kamran-code-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+it's me Kamran Ali Here, an ambitious Full-Stack Developer,
 
-Here are some ideas to get you started:
+I've been working really hard to become a full-stack developer fast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've just almost done with Frontend Development;
+
+and working hard to cover backend development.
+
+here's what I have done with:
+
+- HTML
+- CSS
+- JavaScript
+- React JS
+- AI Skills
+- Prompt Engineering
+
+I'd love to work with you if you've any project.
+
+let's discuss how we can work together.
