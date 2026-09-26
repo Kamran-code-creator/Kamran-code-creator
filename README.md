@@ -1,4 +1,4 @@
-### **Kamran Ali - Full-Stack Developer - Helping Businesses Build Clean & Responsive Web and Apps**
+### **<inst>Kamran Ali - Full-Stack Developer - Helping Businesses Build Clean & Responsive Web and Apps</inst>**
 
 Hi There,
 
