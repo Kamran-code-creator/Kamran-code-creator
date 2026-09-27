@@ -15,7 +15,7 @@ Here's what I have done with:
 - HTML
 - CSS
 - JavaScript
-- React JS
+- React
 - Prompt Engineering
 
 I'd love to work with you if you've a project.
