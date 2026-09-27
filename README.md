@@ -2,7 +2,7 @@
 
 Hi There,
 
-it's me Kamran Ali Here, an ambitious Full-Stack Developer,
+It's me Kamran Ali Here, an ambitious Full-Stack Developer,
 
 I've been working really hard to become a full-stack developer fast.
 
