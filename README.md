@@ -1,6 +1,6 @@
 ### <ins>**Kamran Ali - Full-Stack Developer - Helping Businesses Build Clean & Responsive Web and Apps**</ins>
 
-Hi There,
+Hey There,
 
 It's me Kamran Ali Here, an aspiring Full-Stack Developer,
 
