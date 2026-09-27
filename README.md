@@ -4,7 +4,7 @@ Hi There,
 
 It's me Kamran Ali Here, an aspiring Full-Stack Developer,
 
-I've been working really hard to become a full-stack developer fast.
+I've been working hard to become a full-stack developer fast.
 
 I've just almost done with Frontend Development;
 
