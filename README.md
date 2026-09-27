@@ -16,7 +16,6 @@ here's what I have done with:
 - CSS
 - JavaScript
 - React JS
-- AI Skills
 - Prompt Engineering
 
 I'd love to work with you if you've any project.
