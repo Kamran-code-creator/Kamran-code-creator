@@ -10,7 +10,7 @@ I've almost done Frontend Development;
 
 and working hard to cover backend development.
 
-here's what I have done with:
+Here's what I have done with:
 
 - HTML
 - CSS
