@@ -18,6 +18,6 @@ Here's what I have done with:
 - React JS
 - Prompt Engineering
 
-I'd love to work with you if you've any project.
+I'd love to work with you if you've a project.
 
 let's discuss how we can work together.
