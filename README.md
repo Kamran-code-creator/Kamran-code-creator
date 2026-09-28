@@ -10,7 +10,7 @@ I've been working hard to become a full-stack developer.
 
 I've almost done Frontend Development;
 
-and working hard to cover backend development.
+& working hard to cover backend development.
 
 ### <ins>**Skills**</ins>
 
