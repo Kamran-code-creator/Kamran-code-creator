@@ -14,16 +14,19 @@ and working hard to cover backend development.
 
 ### <ins>**Skills**</ins>
 
-- HTML
 - CSS
-- JavaScript
+- HTML
 - React
+- Python
+- BootStrap
+- TypeScript
+- JavaScript
 - Prompt Engineering
 
 ### <ins>**Services**</ins>
 
 - Backend Development
-- Frontend Development
 - React JS Development
+- Frontend Development
 - Full-Stack Development
 - React Native Development
