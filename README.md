@@ -1,6 +1,6 @@
 ### <ins>**Kamran Ali - Full-Stack Developer**</ins>
 
-### <ins>**Brief Intro**</ins>
+### <ins>**Introduction**</ins>
 
 Hey there,
 
