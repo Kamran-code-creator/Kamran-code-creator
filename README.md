@@ -33,3 +33,5 @@ and working hard to cover backend development.
 
 ### <ins>**Contact**</inst>
 
+You can contact me on LinkedIn or on my given email on my GitHub Profile.
+
