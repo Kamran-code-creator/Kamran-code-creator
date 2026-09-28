@@ -30,3 +30,6 @@ and working hard to cover backend development.
 - Frontend Development
 - Full-Stack Development
 - React Native Development
+
+### <ins>**Contact**</inst>
+
