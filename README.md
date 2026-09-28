@@ -20,6 +20,10 @@ and working hard to cover backend development.
 - React
 - Prompt Engineering
 
-I'd love to work with you if you've a project or any role at your company.
+### <ins>**Services**</ins>
 
-let's discuss how we can work together.
+- Backend Development
+- Frontend Development
+- React JS Development
+- Full-Stack Development
+- React Native Development
