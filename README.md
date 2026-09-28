@@ -1,5 +1,7 @@
 ### <ins>**Kamran Ali - Full-Stack Developer**</ins>
 
+### <ins>**Brief Intro**</ins>
+
 Hey there,
 
 It's me Kamran Ali, an aspiring Full-Stack Developer,
