@@ -19,8 +19,8 @@ I've almost done Frontend Development;
 - React
 - Python
 - BootStrap
-- TypeScript
 - JavaScript
+- TypeScript
 - Prompt Engineering
 
 ### <ins>**Services**</ins>
