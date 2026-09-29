@@ -25,8 +25,8 @@ I've almost done Frontend Development;
 
 ### <ins>**Services**</ins>
 
-- Backend Development
 - React JS Development
+- Backend Development
 - Frontend Development
 - Full-Stack Development
 - React Native Development
