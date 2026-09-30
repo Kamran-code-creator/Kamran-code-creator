@@ -31,6 +31,10 @@ I've almost done Frontend Development;
 - Full-Stack Development
 - React Native Development
 
+### <ins>**Projects**</ins>
+
+- Personal Expense Tracker
+
 ### <ins>**Contact**</inst>
 
 You can contact me on LinkedIn or on my given email on my GitHub Profile.
