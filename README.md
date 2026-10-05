@@ -29,7 +29,6 @@ I've almost done Frontend Development;
 - Backend Development
 - Frontend Development
 - Full-Stack Development
-- React Native Development
 
 ### <ins>**Projects**</ins>
 
@@ -37,5 +36,5 @@ I've almost done Frontend Development;
 
 ### <ins>**Contact**</inst>
 
-You can contact me on LinkedIn or on my given email on my GitHub Profile.
+You can contact me on LinkedIn or on my given email on my GitHub Profile. 
 
