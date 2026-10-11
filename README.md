@@ -8,7 +8,7 @@ It's me Kamran Ali, an aspiring Full-Stack Developer,
 
 I've been working hard to become a full-stack developer,
 
-I've almost done Frontend Development;
+I've almost done Frontend Development
 
 & working hard to cover backend development.
 
