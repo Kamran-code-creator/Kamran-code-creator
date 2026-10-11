@@ -6,7 +6,7 @@ Hey there,
 
 It's me Kamran Ali, an aspiring Full-Stack Developer,
 
-I've been working hard to become a full-stack developer.
+I've been working hard to become a full-stack developer,
 
 I've almost done Frontend Development;
 
