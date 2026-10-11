@@ -18,6 +18,7 @@ I've almost done Frontend Development
 - HTML
 - React
 - Python
+- Node.js
 - BootStrap
 - JavaScript
 - TypeScript
