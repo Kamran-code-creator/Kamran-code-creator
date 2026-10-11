@@ -21,6 +21,7 @@ I've almost done Frontend Development
 - Node.js
 - BootStrap
 - JavaScript
+- Express.js
 - TypeScript
 - Prompt Engineering
 
