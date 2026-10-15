@@ -2,7 +2,7 @@
 
 ### <ins>**Introduction**</ins>
 
-Hey there
+Hey there,
 
 It's me Kamran Ali, an aspiring Full-Stack Developer,
 
