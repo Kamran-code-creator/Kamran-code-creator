@@ -4,7 +4,7 @@
 
 Hey there,
 
-What's Up....
+What's Up...
 
 It's Kamran Ali, an aspiring Full-Stack Developer,
 
